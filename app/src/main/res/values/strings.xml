@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Clean ToDo</string>
+    <string name="input_text_to_do">Введите название задачи</string>
+    <string name="item_title">Ваша задача</string>
+    <string name="to_do_title">Мои дела</string>
+    <string name="toast_text">Блок уже создан</string>
+</resources>
